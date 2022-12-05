@@ -1,7 +1,7 @@
 # 🐔Chickens and Bees🐝
 A bunch of Chickens - They look for Food and eat it when they find some. And there are Bees! 
 
-![Chickens](https://raw.githubusercontent.com/johnnyawesome/Chickens/main/Chickens/DemoImages/Chickens.gif)
+![ChickensAndBees](https://github.com/johnnyawesome/ChickensAndBees/blob/main/ChickensAndBees/DemoImages/ChickensAndBees.gif?raw=true)
 
 ## Copyright & Attribuition
 
