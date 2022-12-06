@@ -35,7 +35,7 @@ Author: [William.Thompsonj](https://opengameart.org/content/16x16-fence-and-well
 - Sometimes a Chicken will take a short break, standing still, to be more natural-looking
 
 ## 🐝The Bees🐝
-- Since the Sprites only show a left view of the Bee, they can only fly to the left 🐝
+- The Bees fly all over the screen, from right to left 🐝
 - Bees fly at random Speeds on their X-Axis. Some are slower, some are faster
 - To look more natural, the Bees oscillate on their Y-Axis
 - When a bee hits the left edge of the Screen, it dies
