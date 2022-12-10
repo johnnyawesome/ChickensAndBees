@@ -12,6 +12,10 @@ A bunch of Chickens - They look for Food and eat it when they find some. And the
 **Flowers**: Author: [vassago-labs](https://vassago-labs.itch.io/just-a-few-flowers) License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) /
 **Grain / Cereal**: Author: [ScratchIO](https://opengameart.org/content/2d-cereals) License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+## About the Project
+
+The Code is written in [P5JS](https://p5js.org/)
+
 ## Initialization
 
 - Generate a Background out of Grass-Tiles
