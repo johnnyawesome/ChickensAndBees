@@ -1,5 +1,5 @@
 # 🐔Chickens and Bees🐝
-A bunch of Chickens - They look for Food and eat it when they find some. And there are Bees! 
+A bunch of Chickens - They look for Food and eat it when they find some. And there are Bees! Written in P5JS.
 
 ![ChickensAndBees](https://github.com/johnnyawesome/ChickensAndBees/blob/main/ChickensAndBees/DemoImages/ChickensAndBees.gif?raw=true)
 
