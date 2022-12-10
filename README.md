@@ -3,7 +3,7 @@ A bunch of Chickens - They look for Food and eat it when they find some. And the
 
 ![ChickensAndBees](https://github.com/johnnyawesome/ChickensAndBees/blob/main/ChickensAndBees/DemoImages/ChickensAndBees.gif?raw=true)
 
-## Copyright & Attribuition
+## Copyright & Attribution
 
 **Chicken**: Author: [daneeklu](https://opengameart.org/node/11629) License: [GPL 2.0](https://creativecommons.org/licenses/by/3.0/) and [CC-BY 3.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) /
 **Bee**: Author: [ChickenTeddy](https://opengameart.org/content/16x16-pigeon-shrimp-bee-snail-pack) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) /
