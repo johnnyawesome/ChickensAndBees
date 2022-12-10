@@ -5,10 +5,8 @@ A bunch of Chickens - They look for Food and eat it when they find some. And the
 
 ## Copyright & Attribuition
 
-### Chicken
-Author: [daneeklu](https://opengameart.org/node/11629) License: [GPL 2.0](https://creativecommons.org/licenses/by/3.0/) and [CC-BY 3.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-### Bee
-Author: [ChickenTeddy](https://opengameart.org/content/16x16-pigeon-shrimp-bee-snail-pack) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
+Chicken: Author: [daneeklu](https://opengameart.org/node/11629) License: [GPL 2.0](https://creativecommons.org/licenses/by/3.0/) and [CC-BY 3.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+Bee: Author: [ChickenTeddy](https://opengameart.org/content/16x16-pigeon-shrimp-bee-snail-pack) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 ### Grass
 Author: [Invincible](https://opengameart.org/content/grass-tiles-0) License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 
 ### Flowers
