@@ -14,7 +14,7 @@ A bunch of Chickens - They look for Food and eat it when they find some. And the
 
 ## About the Project
 
-The Code is written in [P5JS](https://p5js.org/)
+The Code is written in [P5JS](https://p5js.org/). I also coded a [Squirrel that lives in the Forest](https://github.com/johnnyawesome/Squirrel) and searches for Acorns, using the [P5.Play-Library](https://p5play.org/) which in turn uses the [Planck Physics Engine](https://piqnt.com/planck.js/).
 
 ## Initialization
 
