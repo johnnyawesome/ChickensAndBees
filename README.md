@@ -43,3 +43,8 @@ The Code is written in [P5JS](https://p5js.org/). I also coded a [Squirrel 🐿�
 
 - Food will spawn in random Locations
 - When a Food-Pile is eaten, a new Food-Pile will spawn at a new random Location
+
+
+## Related Projects
+
+I also coded a [Pixel-Art Squirrel 🐿️ that lives in the Forest 🌳 and searches for Acorns 🌰.](https://github.com/johnnyawesome/Squirrel) using pure [P5JS](https://p5js.org/), the [P5.Play-Library](https://p5play.org/), which in turn uses the [Planck Physics Engine](https://piqnt.com/planck.js/).
