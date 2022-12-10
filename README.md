@@ -48,3 +48,5 @@ The Code is written in [P5JS](https://p5js.org/). I also coded a [Squirrel 🐿�
 ## Related Projects
 
 I also coded a [Pixel-Art Squirrel 🐿️ that lives in the Forest 🌳 and searches for Acorns 🌰](https://github.com/johnnyawesome/Squirrel) using [P5JS](https://p5js.org/), the [P5.Play-Library](https://p5play.org/), which in turn uses the [Planck Physics Engine](https://piqnt.com/planck.js/).
+
+![Squirrel](https://raw.githubusercontent.com/johnnyawesome/Squirrel/main/Squirrel/DemoImages/Squirrel.gif)
