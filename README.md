@@ -14,11 +14,11 @@ A bunch of Chickens - They look for Food and eat it when they find some. And the
 
 ## Initialization
 
-- Generates a Background out of Grass-Tiles
-- Generates a number of Chickens (You can change "numberOfChickens" to get more / less Chickens)
-- Generates a number of Bees (You can change "numberOfBees" to get more / less Bees)
-- Generates a random Pattern of Plants / Flowers
-- Generates Food-Piles at random Places
+- Generate a Background out of Grass-Tiles
+- Generate a number of Chickens (You can change "numberOfChickens" to get more / less Chickens)
+- Generate a number of Bees (You can change "numberOfBees" to get more / less Bees)
+- Generate a random Pattern of Plants / Flowers
+- Generate Food-Piles at random Places
 - Draws the Fence
 
 ## 🐔The Chickens🐔
